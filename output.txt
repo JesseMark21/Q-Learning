@@ -1,0 +1,14 @@
+Test 1:
+	most mines gathered: 20 
+	average mines gathered: 11.76 
+	average deaths: 0
+
+Test 2:
+	most mines gathered: 21 
+	average mines gathered: 3.62 
+	average deaths: 0.98
+
+Test 3:
+	most mines gathered: 3 
+	average mines gathered: 0.28 
+	average deaths: 1
